@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Jaasir B</h1>
 <h3 align="center">
-🚀 AI Developer • MCA Student • Hackathon Builder • Community Leader
+🚀 AI Developer • Microsoft ambassador Student • Hackathon Builder • Community Leader
 </h3>
 
 <p align="center">
