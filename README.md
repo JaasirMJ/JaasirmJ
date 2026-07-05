@@ -23,7 +23,7 @@ Building AI products, automations, and solutions that solve real-world problems.
 ```yaml
 Name: Mohamed Jaasir B
 Location: India 🇮🇳
-Education: MCA Student
+Education: B.E Student
 Focus:
   - Artificial Intelligence
   - Machine Learning
