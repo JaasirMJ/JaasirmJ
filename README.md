@@ -40,7 +40,7 @@ Current Mission:
 - 👯 Looking to collaborate on **Open Source, AI Projects & Hackathons**
 - 🤔 Looking for help with **Large Scale AI Systems & Production ML**
 - 💬 Ask me about **Python, Java, AI, Hackathons, GitHub, Azure**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **mohamedjaasirb@example.com**
 - ⚡ Fun Fact: **I enjoy turning hackathon ideas into real products.**
 
 ---
